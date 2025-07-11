@@ -9,7 +9,7 @@
 
 Business Support Bot - an interactive customer support system using Streamlit and GitHub Issues for handling customer inquiries.
 
-### ✨ [Website](https://huggingface.co/spaces/wannadiexd/business-support-bot) (If not working create a ticket on GitHub, I will fix it instantly)
+### ✨ [Website](https://huggingface.co/spaces/wannadiexd/business-support-bot) (If not working create a ticket on GitHub or write on my email, I will fix it instantly)
 
 ## 🚀 Features
 
